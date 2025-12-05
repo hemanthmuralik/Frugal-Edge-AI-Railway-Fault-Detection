@@ -19,7 +19,7 @@ The goal is to enable predictive maintenance on India's 68,000km rail network us
 
 ### 1. Accuracy (Defect Detection)
 The model correctly identifies structural track faults in unseen test data.
-![Prediction Example](prediction_result.png)
+![Prediction Example](prediction_result.png.png)
 
 ### 2. Efficiency (Size Reduction)
 Achieved a 10x compression ratio suitable for microcontrollers.
