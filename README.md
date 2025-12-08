@@ -1,7 +1,7 @@
 # Railway Track Fault Detection System (Edge AI)
 
 ## 🚀 Project Overview
-A low-cost, real-time safety system designed to detect railway track faults (cracks, missing fasteners) using Edge AI. 
+A low-cost, real-time safety system designed to detect railway track faults (cracks, missing fasteners) by the use of Edge AI. 
 The goal is to enable predictive maintenance on India's 68,000km rail network using offline-first hardware.
 
 ## 🎯 Key Achievements
